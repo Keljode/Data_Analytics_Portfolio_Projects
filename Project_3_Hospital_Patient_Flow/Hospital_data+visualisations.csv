@@ -1,0 +1,15 @@
+DepartmentID,Average of WaitingTimeMinutes
+A&E (Emergency),99.17
+Cardiology,49.64
+ENT,102.90
+Gastroenterology,31.02
+General Surgery,36.74
+Geriatrics,43.48
+Maternity,107.53
+Neurology,32.31
+Oncology,32.07
+Orthopaedics,36.41
+Paediatrics,114.00
+Renal Medicine,33.45
+Respiratory,106.08
+Grand Total,63.55
