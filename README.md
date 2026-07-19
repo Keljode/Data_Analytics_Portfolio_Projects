@@ -72,17 +72,20 @@ Analyse hospital operations to understand patient flow, waiting times and bed ut
   <img src="Project_3_Hospital_Patient_Flow/pic.png" width="900">
 </p>
 
-### 🏡 UK Real Estate Investment Analysis
+### 🏡 UK Real Estate Investment Analysis (Bury vs Trafford)
 
 **Objective**
 
-Analyse UK property market data to identify investment opportunities and regional trends.
+Analyse UK property market data to identify investment opportunities between Bury and Trafford and regional trends.
 
 **Tools**
 
 - Excel
 - Power Query
 - Power BI
+
+**Key Insights**
+- 
 
 ---
 
