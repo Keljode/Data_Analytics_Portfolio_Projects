@@ -69,7 +69,7 @@ Analyse hospital operations to understand patient flow, waiting times and bed ut
 
  **Dashboard**
   <p align="center">
-  <img src="/pic.png" width="900">
+  <img src="Project_3_Hospital_Patient_Flow/pic.png" width="900">
 </p>
 
 ### 🏡 UK Real Estate Investment Analysis
