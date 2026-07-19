@@ -122,7 +122,7 @@ Analyse transport and environmental datasets to understand mobility patterns, tr
 
   **Dashboard**
    <p align= "center">
-   <img src="Project_2_UK_Housing_Insights_Market/Dashboard_Excel.png" width = "900">
+   <img src="Project_1_TheSmart_city_Mobility/Screenshot 2026-07-17 171101.png" width = "900">
    </p>
 
 ---
