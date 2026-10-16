@@ -42,7 +42,7 @@ Analyse retail sales data across product categories(Technology, furnitures, and 
 
   **Dashboard**
   <p align="center">
-  <img src="Project_4_Retail_sales_analysis/Retail_sales.png" width="900">
+  <img src="Project_4_Retail_sales_analysis/Overview_retail.png" width="900">
 </p>
 
 ---
@@ -69,7 +69,7 @@ Analyse hospital operations to understand patient flow, waiting times and bed ut
 
  **Dashboard**
   <p align="center">
-  <img src="Project_3_Hospital_Patient_Flow/pic1.png" width="900">
+  <img src="Project_3_Hospital_Patient_Flow/pic.png" width="900">
 </p>
 
 ### 🏡 UK Housing Market Insights (2023 - 2024)
